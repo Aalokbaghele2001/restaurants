@@ -1,0 +1,130 @@
+{
+  "restaurants": [
+    {
+      "name": "Spice Route",
+      "image":"https://static.toiimg.com/photo/57867312.cms",
+      "address": "123 Main Street, New Delhi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "20% off on Tuesdays",
+      "rating": 4.7,
+      "about": "Spice Route offers a delightful journey through North Indian cuisine, blending traditional flavors with a modern twist."
+    },
+    {
+      "name": "Tandoori Nights",
+       "image":"https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/02/FotoJetcoverindianrest.jpg",
+      "address": "456 Park Avenue, Mumbai",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Free dessert on orders over Rs. 500",
+      "rating": 4.6,
+      "about": "Tandoori Nights is renowned for its authentic tandoori dishes, offering a vibrant dining experience in the heart of Mumbai."
+    },
+    {
+      "name": "Punjabi Tadka",
+      "image":"https://media.istockphoto.com/id/868408746/photo/assorted-indian-dish.jpg?s=612x612&w=0&k=20&c=XLsAk571Z2kEe_x6TnXWSzsG95-2agp-TcYswQrKHuo=",
+      "address": "789 Commercial Road, Chandigarh",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "10% off for first-time visitors",
+      "rating": 4.8,
+      "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
+    },
+    {
+      "name": "Amritsari Delights",
+      "image":"https://amritsr.com/wp-content/uploads/2020/08/Specialty-of-Indian-Cuisine.jpg",
+      "address": "234 MG Road, Amritsar",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
+      "rating": 4.5,
+      "about": "Amritsari Delights brings the taste of Amritsar to your plate, specializing in robust flavors of North Indian cuisine."
+    },
+    {
+      "name": "Royal Rasoi",
+      "image":"https://t4.ftcdn.net/jpg/02/84/46/89/360_F_284468940_1bg6BwgOfjCnE3W0wkMVMVqddJgtMynE.jpg",
+      "address": "567 Brigade Road, Bangalore",
+      "timing": "12:30 PM - 11:00 PM",
+      "offers": "Lunch buffet at Rs. 399",
+      "rating": 4.9,
+      "about": "Royal Rasoi offers a royal dining experience with a wide array of vegetarian and non-vegetarian dishes from across India."
+    },
+    {
+      "name": "Delhi Darbar",
+      "image":"https://i.ytimg.com/vi/Q3BMkOgpdVg/sddefault.jpg",
+      "address": "890 Connaught Place, Delhi",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "Weekend brunch specials",
+      "rating": 4.7,
+      "about": "Delhi Darbar is a landmark in Delhi known for its traditional Indian breakfast and hearty North Indian meals throughout the day."
+    },
+    {
+      "name": "Lucknowi Bawarchi",
+      "image":"https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content6553.jpg",
+      "address": "345 Hazratganj, Lucknow",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on weekdays",
+      "rating": 4.6,
+      "about": "Lucknowi Bawarchi serves authentic Lucknowi cuisine, showcasing the rich culinary heritage of Uttar Pradesh."
+    },
+    {
+      "name": "Jaipur Spice",
+      "image":"https://media.istockphoto.com/id/177043240/photo/indian-butter-chicken-curry.jpg?s=612x612&w=0&k=20&c=GnqnIWq99zDdjmOWQg0L7p3eKJTQO_bxnJTVbf8PlpM=",
+      "address": "678 Pink City Road, Jaipur",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Chef's special thali",
+      "rating": 4.5,
+      "about": "Jaipur Spice brings the flavors of Rajasthan to life with its aromatic Rajasthani dishes and vibrant ambiance."
+    },
+    {
+      "name": "Agra Palace",
+      "image":"https://www.phillymag.com/wp-content/uploads/sites/3/2019/02/best-indian-restaurant-philadelphia.jpg",
+      "address": "901 Taj Ganj, Agra",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "Buy 2 main courses, get 1 free appetizer",
+      "rating": 4.7,
+      "about": "Agra Palace offers a taste of Agra's royal Mughlai cuisine, known for its rich flavors and exquisite presentation."
+    },
+    {
+      "name": "Mughlai Dastarkhwan",
+      "image":"https://t4.ftcdn.net/jpg/03/61/86/91/360_F_361869194_7JGmIOSj2iUNi0AYoVhVyhKvaN6PkOah.jpg",
+      "address": "123 Gomti Nagar, Lucknow",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.8,
+      "about": "Mughlai Dastarkhwan offers a regal dining experience with its exquisite Mughlai cuisine, known for its aromatic spices and richness."
+    },
+    {
+      "name": "Rajasthani Rangoli",
+      "image":"https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2022/03/23095714/best-restaurants.jpg",
+      "address": "456 Udaipur Circle, Udaipur",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Weekend family discounts",
+      "rating": 4.6,
+      "about": "Rajasthani Rangoli celebrates the flavors of Rajasthan with its traditional tandoori dishes and warm hospitality."
+    },
+    {
+      "name": "Varanasi Vaishnavi",
+      "image":"https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2016/05/south-indian-feature.jpg",
+      "address": "789 Kashi Vishwanath Gali, Varanasi",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "15% off on weekends",
+      "rating": 4.8,
+      "about": "Varanasi Vaishnavi specializes in authentic Varanasi cuisine, blending traditional flavors with a touch of modern flair."
+    },
+    {
+      "name": "Patiala Junction",
+      "image":"https://content.jdmagicbox.com/comp/vadodara/57/0265p265std2657/catalogue/dawat-restaurant-manjalpur-vadodara-north-indian-restaurants-yxvw2iognb.jpg",
+      "address": "234 GT Road, Patiala",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Happy Hour: 3:00 PM - 6:00 PM",
+      "rating": 4.6,
+      "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
+    },
+    {
+      "name": "Kashmiri Khazana",
+      "image":"https://palmbeachuk.com/wp-content/uploads/2023/03/Iconic-Vegetarian-Dishes-in-Indian-Cuisine.jpg",
+      "address": "567 Dal Lake View, Srinagar",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off for dine-in",
+      "rating": 4.7,
+      "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
+    }
+  ]
+}
